@@ -1,0 +1,33 @@
+theme = "awesome-identity"
+baseURL = "https://example.com"
+title = "Ahmed Alghazwi"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "images/Ahmed.JPG"
+  firstname = "Ahmed"
+  lastname = "Alghazwi"
+  title = "Aspiring Computer Science Professional"
+  bio = """Computer Science student at Rutgers University, graduating in 2023 (expected completion date is (05/31/2023). 
+  Over the course of my education, I have worked on multiple practical projects where I developed a strong coding experience 
+  in multiple programming languages including Python and C. Additionally, I developed a strong background in analyzing data sets 
+  and became proficient in implementing computer algorithms. I am looking forward to expanding my knowledge and experience as 
+  I pursue a career in the field of technology and software development."""
+
+
+## Contacts Configurations
+[params.contacts]
+  email = "aamghazwi@gmail.com"
+  github = "aamghazwi"
+  linkedin = "ahmed-alghazwi-27606222a"
+
+[params.actions]
+  [params.actions.resume]
+    url = "https://drive.google.com/file/d/1apBmHpjnqRiIS8xgH7p_pA7UsddtAld3/view?usp=sharing"
+    name = "Resume"
+
+## Footer Configurations
+[params.footer]
+  copyright = "2023"
+  poweredBy = true
